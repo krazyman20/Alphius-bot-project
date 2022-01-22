@@ -15,4 +15,4 @@ and so much more
 <br>[charwee for the setprefix command] (https://www.youtube.com/channel/UCNiYETS-eYa-7twxV-BDH8w)
 
 ## selfhosting
-if you want to selfhost this bot, join my <br>[discord server] (https://discord.gg/e5PFCF2mTB)
+if you want to selfhost this bot, join my <br>[discord server](https://discord.gg/e5PFCF2mTB)
