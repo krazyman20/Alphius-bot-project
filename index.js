@@ -44,6 +44,10 @@ Categories.forEach(async function(Category) { //
     });
 });
 
+const Enmap = require("enmap");
+
+client.setups = new Enmap({ name: "setups", dataDir: "./databases/setups" });
+
 client.on("message", async message => {
 
   let CustomPrefix = await db.get(`Prefix_${message.guild.id}`);

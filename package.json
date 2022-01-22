@@ -15,6 +15,7 @@
     "common-tags": "^1.8.2",
     "discord.js": "^12.5.3",
     "easy-discord-chatbot": "0.0.4",
+    "enmap": "^5.8.7",
     "express": "^4.17.2",
     "humanize-duration": "^3.27.1",
     "mathjs": "^10.1.0",
