@@ -1,5 +1,6 @@
 const db = require("old-wio.db")
 const { MessageEmbed } = require("discord.js")
+
 module.exports = {
   name: "warn",
   aliases: [],
